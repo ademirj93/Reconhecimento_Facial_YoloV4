@@ -1,0 +1,5 @@
+classes= 18
+train  = ./trainarface.txt
+valid  = ./testarface.txt
+names = ./faceArface.names
+backup = ./bkp

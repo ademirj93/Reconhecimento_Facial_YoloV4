@@ -1,0 +1,11 @@
+#Diretórios
+FRGC/*
+ARFACE/*
+bkp/*
+
+#Arquivos
+*.yml
+*.weights
+*.mp4
+*.avi
+yolov4.conv.137
